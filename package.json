@@ -1,0 +1,23 @@
+{
+  "name": "table-select",
+  "version": "0.1.0",
+  "description": "An application to recieve data, sort data into tables and move data around to different tables",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonullberg/table-select.git"
+  },
+  "author": "jonathan.ullberg@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonullberg/table-select/issues"
+  },
+  "homepage": "https://github.com/jonullberg/table-select#readme",
+  "devDependencies": {
+    "express": "^4.13.1"
+  }
+}
